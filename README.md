@@ -1,3 +1,16 @@
+# next.js 13 example
+
+based on https://www.youtube.com/watch?v=__mSgDEOyv8
+
+## pocketbase
+
+need a pocketbase.exe in the root folder.
+execute: pocketbase serve
+set up: title [text], content [text]
+enable permissions.
+
+# old text
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
